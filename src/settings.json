@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure",
+        "title": "Master the Way of the Ninja"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Master the Way of the Ninja",
+  "subtitle": "Unleash Your Inner Shinobi and Embark on an Epic Naruto-Inspired Adventure"
+}
